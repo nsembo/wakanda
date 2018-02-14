@@ -1,0 +1,16 @@
+
+button {
+    background: #f8f8f8;
+    color: grey;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    outline: none;
+    font-weight: 700;
+}
+
+button:hover {
+    color: #000;
+    border: 1px solid lightgrey;
+    box-shadow: 1px 1px 1px lightgrey;
+}
+
